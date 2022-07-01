@@ -12,13 +12,11 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
+    "onboardbase": "onboardbase login & onboardbase setup",
     "start": "onboardbase run -c 'react-scripts start'",
     "build": "onboardbase run -c 'react-scripts build'",
     "test": "onboardbase run -c 'react-scripts test'",
-    "eject": "react-scripts eject",
-    "login": "onboardbase login",
-    "setup": "onboardbase setup"
-
+    "eject": "react-scripts eject"
   },
   "eslintConfig": {
     "extends": [
