@@ -22,7 +22,7 @@ In the project directory, you can run:
 
 ### `npm run onboardbase`
 
-This commands runs both `onboardbase login` and `onboardbase setup` at a go to make thing fast and straight forward.
+This commands runs both `onboardbase login` and `onboardbase setup` at a go to make things fast and straight forward.
 
 ### `npm start`
 
