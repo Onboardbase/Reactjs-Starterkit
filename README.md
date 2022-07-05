@@ -19,6 +19,9 @@ $ cd <project>
 
 In the project directory, you can run:
 
+### `npm install`
+
+This command is use to install all required dependencies that comes bundled with the starterkit.
 
 ### `npm run onboardbase`
 
